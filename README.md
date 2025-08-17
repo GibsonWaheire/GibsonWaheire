@@ -63,6 +63,11 @@
 ## 📊 GitHub Stats  
 ![Gibson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibsonwaheire&show_icons=true&theme=radical)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibsonWaheire&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GibsonWaheire&theme=radical)
+
+
+
 ---
 
 ## 🌍 Let’s Connect  
