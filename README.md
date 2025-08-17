@@ -16,8 +16,7 @@
   - ✉️ pwriter455@gmail.com  
 
 ---
-
-## 🛠️ Tech Stack  
+ 
 
 ## 🛠️ Tech Stack  
 
