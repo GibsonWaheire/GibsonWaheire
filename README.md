@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gibson  
 
-🚀 A 💻 Software Developer | 📈 Entrepreneur  
+🚀 A 💻 Software Developer | 📈 Entrepreneur  |Ai Enthusiast 
 
 ---
 
