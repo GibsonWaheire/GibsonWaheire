@@ -74,7 +74,7 @@
 ## 🌍 Let's Connect
 
 - 💼 **Portfolio:** [portfolio-main-two-bice.vercel.app](https://portfolio-main-two-bice.vercel.app)
-- 🏢 **Company:** [mcgibsdigitalsolutions.com](https://mcgibsdigitalsolutions.com) *(coming soon)*
+- 🏢 **Company:** [mcgibsdigitalsolutions.com](https://mcgibsdigitalsolutions.com) 
 - 💼 **Upwork:** [Gibson Waheire on Upwork](https://www.upwork.com/freelancers/gibsonw)
 - 💼 **LinkedIn:** [linkedin.com/in/gibson-w-giteru](https://www.linkedin.com/in/gibson-w-giteru/)
 - 📧 **Email:** g.waheir00@gmail.com
