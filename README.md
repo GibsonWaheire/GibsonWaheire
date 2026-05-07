@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌍 Based in **USA**  
+- 🌍 Based in **KENYA**  
 - 📚 Studied  **Full-Stack Software Engineering** at Moringa School  
 - 🛠️ Building projects in **mobile apps, fintech solutions, and SaaS platforms**  
 - ✍️ Experienced in **Technology, DevOps research, and business analysis**  
