@@ -3,17 +3,18 @@
 🚀 A 💻 Software Developer | 📈 Entrepreneur  |Ai Enthusiast 
 
 ---
+## About Me  
 
-## 👨‍💻 About Me  
-- 🌍 Based in **KENYA**  
-- 📚 Studied  **Full-Stack Software Engineering** at Moringa School  
-- 🛠️ Building projects in **mobile apps, fintech solutions, and SaaS platforms**  
-- ✍️ Experienced in **Technology, DevOps research, and business analysis**  
-- 🎯 Exploring **AI-assisted development, automation, and digital businesses**  
-- 💡 Entrepreneurial focus: from **fintech** to **e-commerce**  
-- 📫 Reach me at:  
-  - ✉️ g.waheir00@gmail.com  
-  - ✉️ pwriter455@gmail.com  
+- 🌍 Based in **Nairobi, Kenya**
+- 📚 **BSc Computer Science** — Open University of Kenya (ongoing)
+- 📚 **Full-Stack Software Engineering** — Moringa School
+- 🏅 **CCNA Certification** — Networking & Infrastructure (ongoing)
+- 🛠️ Building **SaaS platforms, fintech solutions, and web apps**
+- 🤖 Experienced in **AI-assisted development & automation** — n8n, Zapier, OpenAI API
+- 💼 Running **McGibs Digital Solutions** — IT systems & infrastructure for SMBs
+- 📫 Reach me at:
+  - ✉️ g.waheir00@gmail.com
+  - ✉️ pwriter455@gmail.com
 
 ---
  
@@ -70,8 +71,12 @@
 
 ---
 
-## 🌍 Let’s Connect  
-- 💼 Portfolio (coming soon at **mcgibsdigitalsolutions.com**)  
-- 📧 Email: g.waheir00@gmail.com | pwriter455@gmail.com  
-- 💡 Open to collaborations on **tech startups, mobile apps, and digital tools**  
+## 🌍 Let's Connect
+
+- 💼 **Portfolio:** [portfolio-main-two-bice.vercel.app](https://portfolio-main-two-bice.vercel.app)
+- 🏢 **Company:** [mcgibsdigitalsolutions.com](https://mcgibsdigitalsolutions.com) *(coming soon)*
+- 💼 **Upwork:** [Gibson Waheire on Upwork](https://www.upwork.com/freelancers/gibsonw)
+- 💼 **LinkedIn:** [linkedin.com/in/gibson-w-giteru](https://www.linkedin.com/in/gibson-w-giteru/)
+- 📧 **Email:** g.waheir00@gmail.com
+- 💡 Open to collaborations on **SaaS platforms, AI-powered web apps, and business systems****  
 
